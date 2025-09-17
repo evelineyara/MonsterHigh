@@ -8,6 +8,7 @@
     --cor01:"rgba(55, 4, 85, 0.774)";
     --fontedestaque:"Henny Penny";
     --fontpadrao:"Quicksand";
+    --fontepadrao02: "Nunito";
 }
 
 body {
@@ -56,7 +57,7 @@ nav a {
 
 nav a:hover {
     color: black;
-    background-color: rgba(167, 72, 255, 0.37);
+    background-color: rgba(167, 72, 255, 0.226);
     border-radius: 20px;
     padding: 10px;
 
@@ -70,6 +71,10 @@ main {
     background-image: linear-gradient(to right, black, rgba(137, 43, 226, 0.068));
     border-radius: 20px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.192);
+}
+
+picture > img {
+    max-width: 380px;
 }
 
 div.video {
@@ -148,7 +153,7 @@ footer a {
 
 footer a:hover {
     color: black;
-    background-color: rgba(167, 72, 255, 0.37);
+    background-color:  rgba(167, 72, 255, 0.226);
     border-radius: 25px;
     padding: 10px;
 
