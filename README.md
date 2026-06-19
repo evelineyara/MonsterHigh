@@ -1,3 +1,3 @@
 # ✦ Assista episódios surpresa de Monster High
-<img width="500" height="700" alt="Episodio Surpresa" src="https://github.com/user-attachments/assets/809f8b70-1539-464a-8e80-052c0c3c4157" />
-<img width="500" height="700" alt="MonsterHigh" src="https://github.com/user-attachments/assets/3e62d3bc-8b41-4925-b11d-9624224e4fa0" />
+<img width="872" height="780" alt="Episodio Surpresa" src="https://github.com/user-attachments/assets/95675c14-07fc-4eb2-98e8-3afa0cb56946" />
+<img width="963" height="773" alt="MonsterHigh" src="https://github.com/user-attachments/assets/33fc52df-d650-437d-8d6c-92675101cb1c" />
